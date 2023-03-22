@@ -1,1 +1,4 @@
 ignorar.txt
+.DS_Store
+.vscode/
+tp1_1.dSYM/
